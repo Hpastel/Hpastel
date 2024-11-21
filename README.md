@@ -10,3 +10,4 @@
 Hpastel/Hpastel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![Exophase Profile](https://card.exophase.com/2/0/75549.png?1732200667)](https://www.exophase.com/user/hpastel/)
